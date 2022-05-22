@@ -1,0 +1,24 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:deepslate_essence",
+      "count": 4
+    },
+    {
+      "item": "mysticalagriculture:deepslate_seeds",
+      "count": 1
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:deepslate_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:aluminum_crop"
+  }
+}

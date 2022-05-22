@@ -1,0 +1,24 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:nature_essence",
+      "count": 4
+    },
+    {
+      "item": "mysticalagriculture:nature_seeds",
+      "count": 1
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:nature_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:nature_crop"
+  }
+}

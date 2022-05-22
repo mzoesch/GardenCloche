@@ -1,0 +1,24 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:electrum_essence",
+      "count": 4
+    },
+    {
+      "item": "mysticalagriculture:electrum_seeds",
+      "count": 1
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:electrum_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:electrum_crop"
+  }
+}
